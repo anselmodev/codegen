@@ -1,5 +1,5 @@
 {
-  "name": "codegen",
+  "name": "numerical-code-generator",
   "version": "0.1.0",
   "description": "Numerical code generator",
   "main": "index.js",
