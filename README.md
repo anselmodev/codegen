@@ -13,9 +13,9 @@ or
 
 ## Generate normal code
 
-const numFormatter = require('numerical-code-generator');
+const numberCode = require('numerical-code-generator');
 
-const newCode = numFormatter.set(6);
+const newCode = numberCode.set(6);
 
 `example for 6 character limitation`
 
@@ -30,9 +30,9 @@ console.log(newCode);
 
 *Numeric code generated randomly from Date().getTime()*
 
-const numFormatter = require('numerical-code-generator');
+const numberCode = require('numerical-code-generator');
 
-const newCode = numFormatter.setUnic(8);
+const newCode = numberCode.setUnic(8);
 
 `// example for 8 character limitation`
   
