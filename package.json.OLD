@@ -1,0 +1,29 @@
+{
+  "name": "codegen",
+  "version": "1.0.0",
+  "description": "Numerical code generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeinpixel/codegen.git"
+  },
+  "keywords": [
+    "code gen",
+    "codeGen",
+    "numerical",
+    "genenrator",
+    "code generator",
+    "numerical code",
+    "numerical code generator",
+    "numerical generator"
+  ],
+  "author": "Anselmo Lima <ola@anselmodev.com> (http://anselmodev.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codeinpixel/codegen/issues"
+  },
+  "homepage": "https://github.com/codeinpixel/codegen#readme"
+}
