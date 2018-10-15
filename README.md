@@ -1,4 +1,4 @@
-# Numerical code generator (Ver 0.1.1)
+# Numerical code generator (Ver 0.1.2)
 
 A small module that generate numerical code.
 *( No dependencies )*
